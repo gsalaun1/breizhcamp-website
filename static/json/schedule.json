@@ -435,8 +435,8 @@
 }, {
   "id" : "663731",
   "name" : "\uD83C\uDD98 Mon Elasticsearch a perdu la boule \uD83D\uDE35‍\uD83D\uDCAB",
-  "event_start" : "2024-06-27T14:35:00",
-  "event_end" : "2024-06-27T15:30:00",
+  "event_start" : "2024-06-27T16:00:00",
+  "event_end" : "2024-06-27T16:55:00",
   "event_type" : "Data",
   "format" : "Conférence",
   "venue" : "Amphi A",
@@ -463,8 +463,8 @@
 }, {
   "id" : "660722",
   "name" : "La force du temp réel : développement d'un jeu mobile de palet breton/vendéen multijoueur",
-  "event_start" : "2024-06-27T16:00:00",
-  "event_end" : "2024-06-27T16:55:00",
+  "event_start" : "2024-06-27T14:35:00",
+  "event_end" : "2024-06-27T15:30:00",
   "event_type" : "Mobile",
   "format" : "Conférence",
   "venue" : "Amphi A",
