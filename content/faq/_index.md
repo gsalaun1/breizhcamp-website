@@ -43,7 +43,8 @@ Dans tous les cas, pensez simplement à descendre à l'arrêt __TOURNEBRIDE__ !
 # Le Breizhcamp est-il accessible aux personnes à mobilité réduite ?
 
 En résumé : oui. Des rampes permettent d'accéder aux amphis. 
-Dans chaque amphi 6 places sont réservées aux PMR, dans la partie haute.
+Six places sont réservées aux PMR dans la partie haute de chaque amphi.
+Une signalisation est faite à l'entrée de chaque amphi, les places réservées sont également balisées.
 
 Il existe aussi des rampes d'accès pour aller jusqu'à la scène si nécessaire.
 
