@@ -157,7 +157,8 @@
                                 start: talk.event_start,
                                 end: talk.event_end,
                                 color: categoryColors[talk.event_type] || categoryColors['Autre...'],
-                                room: rooms[talk.venue]
+                                room: rooms[talk.venue],
+                                level: talk.level
                             }, _.pick(talk, ['video_url', 'files_url', 'slides_url']));
                         }), function(talk) {
                             return _.all(filters, function(filter, name) {
@@ -191,6 +192,7 @@
                     '<p class="text-muted" ng-bind="::detailsCtrl.talk.category"></p>' +
                     '<div marked="::detailsCtrl.talk.description"></div>' +
                     '<p><strong>Speaker{{::detailsCtrl.talk.speakers.indexOf(\',\') !== -1 ? \'s\' : \'\'}}</strong>&nbsp;: {{::detailsCtrl.talk.speakers}}</p>' +
+                    '<p><strong>Niveau&nbsp;:</strong>&nbsp;{{::detailsCtrl.talk.level}}</p>' +
                     '</div>',
                     controller: function() {
                         this.talk = talk;
