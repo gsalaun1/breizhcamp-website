@@ -267,19 +267,19 @@
   "level" : "Introduction"
 }, {
   "id" : "658620",
-  "name" : "Burn Your Idols - Comment devenir un bon rôle modèle ?",
+  "name" : "La doc va bien, ne t'en fais pas",
   "event_start" : "2024-06-26T10:00:00",
   "event_end" : "2024-06-26T10:55:00",
   "event_type" : "Autre...",
   "format" : "Conférence",
   "venue" : "Amphi E",
   "venue_id" : "5",
-  "speakers" : "Magali Milbergue",
+  "speakers" : "Damien Lucas",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "En tant que jeune fille qui aimait la science et voulait apprendre à coder, les seules quelques femmes de la tech que je pouvais trouver étaient les très très très extraordinaires comme Ada Lovelace, Grace Hopper ou Margaret Hamilton. 20 ans plus tard, il y a de grandes chances que si je vous demande de me parler de rôles modèles féminins dans la tech, vous me citiez ces mêmes noms. \r\n\r\nEt ces noms ne sont pas des mauvais noms. Ces femmes sont des rôles modèle. Mais elles sont des rôles modèles GENIAUX. Le genre de rôles modèles auquel il est très dur de s’identifier. Même avec un égo plutôt sain, je ne vois pas comment la plupart des femmes pourraient se dire “je suis la prochaine Ada Lovelace !”. \r\n\r\nCes femmes extraordinaires finissent par avoir l’impact inverse à celui qu’on voudrait qu’elles aient. En n’ayant que des femmes très très extraordinaires comme modèles, nous finissons par nous dire que nous n’avons pas notre place dans la tech comme nous ne sommes pas aussi extraordinaires. Et c’est bien sûr faux, il n’y a pas besoin d’être un génie pour travailler dans la tech. \r\n\r\nAvec cette conférence, je vais essayer de démontrer comment avoir uniquement des femmes très extraordinaires, des génies en rôles modèles est toxique pour les femmes qui n’arrivent pas à s’y retrouver, et donne des excuses à l’industrie pour  mettre la barre très haut en terme de compétences pour les femmes qui veulent y entrer. Ensemble, nous essaierons de trouver une façon d’avoir des modèles qui puissent impacter positivement les femmes de la tech, et nous nous demanderons ce qu’un bon rôle modèle devrait être. ",
-  "level" : "Standard"
+  "description" : "RTFM (abbréviation, péjoratif)\n\n1. Exprime le manque de recherches sur un sujet.\n\nRelis Ton Fichu Manuel, qui n'a jamais prononcé ou entendu ce doux acronyme dans un open space ? Même si cette injonction est louable, encore faut-il avoir de la documentation à lire!\n\nSyndrôme de la page blanche ? Que faut-il documenter ? Comment structurer ma documentation ? Et mes schémas ?\n\nTrop de questions qui, mises bout à bout, nous empêche de faire le premier pas.\n\nDans ce talk, je vous ferai part de mes expériences sur l'utilisation de deux templates de structure de documentation : arc42 et Diátaxis. Rien de plus simple, il suffit de les remplir!\n\nJe vous montrerai ensuite des outils open source permettant de générer du contenu sans effort supplémentaire. A commencer par des outils de génération de diagrammes (PlantUML, draw.io, mermaid), puis des outils de modélisation (C4, structurizr). Enfin, des outils de génération de documentation : schemaSpy pour documenter votre base de données, springdoc pour vos API REST et Compodoc pour vos frontends.",
+  "level" : "Introduction"
 }, {
   "id" : "658066",
   "name" : "Défier l'entropie : réécrire ses applications ou reprendre le contrôle ?",
