@@ -1,9 +1,9 @@
 [
   {
     "id": "07ff4bc0f47c",
-    "name": "Keynote",
-    "description": null,
-    "speakers": "",
+    "name": "Keynote - BrailleRAP - Embosseuse braille Open Source",
+    "description": "BrailleRAP - Embosseuse braille Open Source - Du hackaton au Hackaday Prize - https://www.braillerap.org",
+    "speakers": "Stéphane Godin",
     "language": null,
     "format": "Keynote",
     "venue": "Amphi C",
@@ -11,7 +11,7 @@
     "event_end": "2024-06-27T18:50:00",
     "event_type": "Keynote",
     "venue_id": "1",
-    "video_url": null,
+    "video_url": "https://youtube.com/live/qbZpsiFbTXY",
     "files_url": null,
     "slides_url": null,
     "level": null
@@ -1821,8 +1821,8 @@
   {
     "id": "803c8631f8f5",
     "name": "Keynote",
-    "description": null,
-    "speakers": "",
+    "description": "Je m'appelle Ploum et je suis un Geek!",
+    "speakers": "Lionel Dricot alias Ploum",
     "language": null,
     "format": "Keynote",
     "venue": "Amphi C",
@@ -1830,7 +1830,7 @@
     "event_end": "2024-06-27T10:00:00",
     "event_type": "Keynote",
     "venue_id": "1",
-    "video_url": null,
+    "video_url": "https://youtube.com/live/EWdUv6_KVQ0",
     "files_url": null,
     "slides_url": null,
     "level": null
