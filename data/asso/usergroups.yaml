@@ -34,24 +34,6 @@ items:
       - name: Léna Ndiaye
         picture: /img/team/annetLenaNDIAYE.jpg
         twitter: annetLenaNDIAYE
-      - name: Caroline Mouden
-        picture: /img/team/CarolineMouden.jpg
-        twitter: CarolineMouden
-      - name: Johanna Duigou
-        twitter: johanna_duigou
-        picture: /img/team/johanna_duigou.jpg
-      - name: Alain Muller
-        picture: /img/team/alainmuller.jpeg
-        link:
-          fa_icon: "linkedin-square"
-          label: "alainmuller"
-          url: "https://www.linkedin.com/in/alainmuller/"
-      - name: Pierre Boulch
-        picture: /img/team/piereboulch.jpeg
-        link:
-          fa_icon: "linkedin-square"
-          label: "piereboulch"
-          url: "https://www.linkedin.com/in/pierre-boulc-h-31ab3188/"
 
   - name: "Software Crafters Rennes"
     logo: "https://pbs.twimg.com/profile_images/869988942770307072/5eE0osqk_400x400.jpg"
@@ -161,3 +143,20 @@ items:
       - name: Gaël Deest
         picture: /img/team/gael_deest.jpg
         twitter: gael_deest
+
+  - name: "Mobile Rennes"
+    logo: "https://secure.meetupstatic.com/photos/event/5/9/6/e/clean_522742894.webp"
+    url: "https://www.meetup.com/fr-FR/mobile-rennes/"
+    organizers:
+      - name: Caroline Mouden
+        picture: /img/team/CarolineMouden.jpg
+        twitter: CarolineMouden
+      - name: Johanna Duigou
+        twitter: johanna_duigou
+        picture: /img/team/johanna_duigou.jpg
+      - name: Sylvain Tranchand
+        picture: /img/team/sylvain_tranchand.jpg
+        link:
+          fa_icon: "linkedin-square"
+          label: "tranchandsylvain"
+          url: "https://www.linkedin.com/in/tranchandsylvain/"
