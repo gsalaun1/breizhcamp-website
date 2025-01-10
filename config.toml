@@ -67,9 +67,9 @@ unsafe= true
     programme_get_speakers_method = "static"  # static | cfp_api
 
 [[params.social_links]]
-    type = "twitter"
-    title = "Twitter"
-    url = "https://twitter.com/breizhcamp"
+    type = "bluesky"
+    title = "Bluesky"
+    url = "https://bsky.app/profile/breizhcamp.bsky.social"
 
 [[params.social_links]]
     type = "youtube"
