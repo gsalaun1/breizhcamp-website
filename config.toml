@@ -69,7 +69,7 @@ unsafe= true
 [[params.social_links]]
     type = "bluesky"
     title = "Bluesky"
-    url = "https://bsky.app/profile/breizhcamp.bsky.social"
+    url = "https://bsky.app/profile/breizhcamp.org"
 
 [[params.social_links]]
     type = "youtube"
