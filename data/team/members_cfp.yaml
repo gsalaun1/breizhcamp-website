@@ -28,7 +28,10 @@ items:
       url: "https://www.linkedin.com/in/benoitmasson/"
   - name: Gaël Salaün
     picture: /img/team/gsalaun1.jpg
-    twitter: gsalaun1
+    link:
+      fa_icon: "linkedin-square"
+      label: "gael-salaun"
+      url: "https://www.linkedin.com/in/gael-salaun/"
   - name: Léna Ndiaye
     picture: /img/team/annetLenaNDIAYE.jpg
     twitter: annetLenaNDIAYE
