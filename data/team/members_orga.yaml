@@ -19,7 +19,10 @@ items:
     twitter: etienne_besson
   - name: Gaël Salaün
     picture: /img/team/gsalaun1.jpg
-    twitter: gsalaun1
+    link:
+      fa_icon: "linkedin-square"
+      label: "gael-salaun"
+      url: "https://www.linkedin.com/in/gael-salaun/"
   - name: Hermann Nsounga
     picture: /img/team/hermann-n.jpeg
     link:
