@@ -173,6 +173,8 @@
                 if (!talk.speakers || !talk.description) { // no detail if there is no description or no speaker
                     return;
                 }
+                var desc = talk.description.replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1<br>$2');
+
                 $uibModal.open({
                     template: '<div class="modal-header">' +
                     '<button type="button" class="close" ng-click="$close()"><span>&times;</span></button>' +
@@ -190,12 +192,14 @@
                     '<div class="modal-body">' +
                     '<em class="pull-right clearfix" ng-bind="::detailsCtrl.talk.room"></em>' +
                     '<p class="text-muted" ng-bind="::detailsCtrl.talk.category"></p>' +
-                    '<div marked="::detailsCtrl.talk.description"></div>' +
+                    //'<div marked="::detailsCtrl.talk.description"></div>' +
+                    '<p ng-bind-html="::detailsCtrl.desc"></p>' +
                     '<p><strong>Speaker{{::detailsCtrl.talk.speakers.indexOf(\',\') !== -1 ? \'s\' : \'\'}}</strong>&nbsp;: {{::detailsCtrl.talk.speakers}}</p>' +
                     '<p><strong>Niveau&nbsp;:</strong>&nbsp;{{::detailsCtrl.talk.level}}</p>' +
                     '</div>',
                     controller: function() {
                         this.talk = talk;
+                        this.desc = desc;
                         this.formats = formats;
                     },
                     controllerAs: 'detailsCtrl'
