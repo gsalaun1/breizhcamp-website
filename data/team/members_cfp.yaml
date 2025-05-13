@@ -1,19 +1,7 @@
 items:
-  - name: Yoann Dubreuil
-    picture: /img/team/yoanndubreuil.jpg
-    twitter: yoanndubreuil
   - name: Alexandre Thomazo
     picture: /img/team/alexlg.jpg
     twitter: alexlg
-  - name: Sébastien Brousse
-    picture: /img/team/seb_brousse.jpg
-    twitter: seb_brousse
-  - name: Laurent Huet
-    picture: /img/team/lhuet35.png
-    twitter: lhuet35
-  - name: Marc Audefroy
-    picture: /img/team/MarcAudefroy.jpg
-    twitter: MarcAudefroy
   - name: Guillaume Collic
     picture: /img/team/gcollic.png
     link:
@@ -32,9 +20,6 @@ items:
       fa_icon: "linkedin-square"
       label: "gael-salaun"
       url: "https://www.linkedin.com/in/gael-salaun/"
-  - name: Léna Ndiaye
-    picture: /img/team/annetLenaNDIAYE.jpg
-    twitter: annetLenaNDIAYE
   - name: Pascal Le Merrer
     picture: /img/team/pascallemerrer.jpeg
     link:
@@ -56,9 +41,6 @@ items:
       fa_icon: "comment"
       label: "lucsorelgiffo"
       url: "https://floss.social/@lucsorelgiffo"
-  - name: Etienne Besson
-    picture: /img/team/etienne_besson.jpg
-    twitter: etienne_besson
   - name: Caroline Mouden
     picture: /img/team/CarolineMouden.jpg
     twitter: CarolineMouden
@@ -80,9 +62,18 @@ items:
       fa_icon: "linkedin-square"
       label: "julienstephan"
       url: "https://fr.linkedin.com/in/julien-stephan-70a5522b"
-  - name: Johanna Duigou
-    twitter: johanna_duigou
-    picture: /img/team/johanna_duigou.jpg
   - name: Maxime Odye
     twitter: MaxOdye
     picture: /img/team/MaxOdye.jpg
+  - name: Jean-Louis Jouannic
+    picture: /img/team/jljouannic.png
+    link:
+      fa_icon: "external-link-square"
+      label: "@jljouannic@piaille.fr"
+      url: "https://piaille.fr/@jljouannic"
+  - name: Christopher Louët
+    picture: /img/team/christopher_louet.jpg
+    link:
+      fa_icon: "linkedin-square"
+      label: "christopher-louet"
+      url: "https://www.linkedin.com/in/christopher-lou%C3%ABt-6911b482/"
