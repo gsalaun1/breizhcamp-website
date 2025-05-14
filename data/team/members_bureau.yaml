@@ -3,8 +3,11 @@ items:
     twitter: yoanndubreuil
     picture: /img/team/yoanndubreuil.jpg
   - name: Alexandre Thomazo
-    twitter: alexlg
     picture: /img/team/alexlg.jpg
+    link:
+      fa_icon: "external-link-square"
+      label: "@alexlg@framapiaf.org"
+      url: "https://framapiaf.org/@alexlg"
   - name: Loïc Guibert
     picture: /img/team/loicguibert.png
     link:
