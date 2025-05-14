@@ -214,7 +214,7 @@ unsafe= true
     # Lister les sponsors
     show_list = true
     # Afficher les sponsors ou seulement des vignettes anonymes
-    visible = false
+    visible = true
     anon_nbr_platinum = 6
     anon_nbr_gold = 15
     anon_nbr_silver = 18
