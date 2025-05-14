@@ -14,9 +14,6 @@ items:
   - name: Nicolas Ledez
     twitter: nledez
     picture: /img/team/nledez.jpg
-  - name: Sébastien Brousse
-    twitter: seb_brousse 
-    picture: /img/team/seb_brousse.jpg
   - name: Julien Coste
     twitter: CosteJulien
     picture: /img/team/CosteJulien.png
@@ -24,8 +21,11 @@ items:
     twitter: lhuet35
     picture: /img/team/lhuet35.png
   - name: Jean-Louis Jouannic
-    twitter: jljouannic
     picture: /img/team/jljouannic.png
+    link:
+      fa_icon: "external-link-square"
+      label: "@jljouannic@piaille.fr"
+      url: "https://piaille.fr/@jljouannic"
   - name: Sylvain Révéreault
     twitter: srevereault
     picture: /img/team/srevereault.jpg

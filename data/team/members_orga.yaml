@@ -44,9 +44,6 @@ items:
   - name: Laurent Huet
     twitter: lhuet35
     picture: /img/team/lhuet35.png
-  - name: Léna Ndiaye
-    picture: /img/team/annetLenaNDIAYE.jpg
-    twitter: annetLenaNDIAYE
   - name: Luc Sorel-Giffo
     picture: /img/team/lucsorelgiffo.jpg
     link:
@@ -68,9 +65,6 @@ items:
       fa_icon: "linkedin-square"
       label: "pascallemerrer"
       url: "https://www.linkedin.com/in/pascal-le-merrer-872a478/"
-  - name: Sébastien Brousse
-    twitter: seb_brousse 
-    picture: /img/team/seb_brousse.jpg
   - name: Sébastien Chédor
     picture: /img/team/SebastienChedor.jpg
     twitter: SebastienChedor

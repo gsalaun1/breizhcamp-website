@@ -26,14 +26,6 @@ items:
           fa_icon: "linkedin-square"
           label: "ghoullier"
           url: "https://www.linkedin.com/in/ghoullier/"
-  
-  - name: "Android Rennes"
-    logo: "https://pbs.twimg.com/profile_images/884148623394603010/A8bDF4gQ_400x400.jpg"
-    url: "https://www.meetup.com/fr-FR/AndroidRennes/"
-    organizers:
-      - name: Léna Ndiaye
-        picture: /img/team/annetLenaNDIAYE.jpg
-        twitter: annetLenaNDIAYE
 
   - name: "Software Crafters Rennes"
     logo: "https://pbs.twimg.com/profile_images/869988942770307072/5eE0osqk_400x400.jpg"
@@ -136,16 +128,16 @@ items:
         picture: /img/team/Skillo1989.jpg
         twitter: Skillo1989
 
-  - name: "Lambda Rennes"
-    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
-    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
-    organizers:
-      - name: Caroline Gaudreau
-        picture: /img/team/akhesacaro.jpg
-        twitter: akhesacaro
-      - name: Gaël Deest
-        picture: /img/team/gael_deest.jpg
-        twitter: gael_deest
+#  - name: "Lambda Rennes"
+#    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
+#    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
+#    organizers:
+#      - name: Caroline Gaudreau
+#        picture: /img/team/akhesacaro.jpg
+#        twitter: akhesacaro
+#      - name: Gaël Deest
+#        picture: /img/team/gael_deest.jpg
+#        twitter: gael_deest
 
   - name: "Mobile Rennes"
     logo: "https://secure.meetupstatic.com/photos/event/5/9/6/e/clean_522742894.webp"
