@@ -84,8 +84,8 @@ Il n'est pas possible d'acheter des billets pendant l'événement.
 Lors de l'inscription au tirage au sort pour la billetterie, vous pourrez exprimer 
 votre préférence pour une des formules suivantes :
 
-  * billet **« 2 jours »** (jeudi et vendredi) : 75 €
-  * billet **« 3 jours »** (mercredi, jeudi et vendredi) : 90 €
+  * billet **« 2 jours »** (jeudi et vendredi) : 80 €
+  * billet **« 3 jours »** (mercredi, jeudi et vendredi) : 95 €
 
 # Je suis speaker, dois-je acheter un billet ?
 
