@@ -150,6 +150,11 @@ items:
     breizhcamp_level: "silver"
     hidden: true
 
+  - name: "Veonum"
+    logo: "/img/sponsors/logo_veonum.svg"
+    url: "http://www.veonum.com"
+    breizhcamp_level: "silver"
+
   - name: "Wijin"
     logo: "/img/sponsors/logo_wijin.png"
     url: "https://www.wijin.tech/"
@@ -175,6 +180,8 @@ items:
     logo: "/img/sponsors/logo_scalian.png"
     url: "https://www.scalian.com"
     breizhcamp_level: "bronze"
+
+
 
 
   # ========== PARTENAIRE ==========
