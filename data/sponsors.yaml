@@ -22,6 +22,11 @@ items:
     url: "https://www.liksi.fr"
     breizhcamp_level: "platinum"
 
+  - name: "Rudder"
+    logo: "/img/sponsors/logo_rudder.png"
+    url: "https://www.rudder.io/fr/"
+    breizhcamp_level: "platinum"
+
   - name: "Coexya"
     logo: "/img/sponsors/logo_coexya.png"
     url: "https://www.coexya.eu/"
