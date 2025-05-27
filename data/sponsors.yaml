@@ -93,6 +93,12 @@ items:
     url: "https://www.adventiel.fr/"
     breizhcamp_level: "silver"
 
+  - name: "Agence Ministérielle pour l'Intelligence Artificielle de Défense"
+    logo: "/img/sponsors/logo_agence_ministerielle_pour_l'intelligence_artificielle_de_defense.png"
+    url: "https://www.linkedin.com/company/amiad-minarm/"
+    breizhcamp_level: "silver"
+    hidden: true
+
   - name: "Apside"
     logo: "/img/sponsors/logo_apside.png"
     url: "https://www.apside.com/"
@@ -153,7 +159,6 @@ items:
     logo: "/img/sponsors/logo_thales.png"
     url: "https://www.thalesgroup.com/fr"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "Veonum"
     logo: "/img/sponsors/logo_veonum.svg"
@@ -185,6 +190,8 @@ items:
     logo: "/img/sponsors/logo_scalian.png"
     url: "https://www.scalian.com"
     breizhcamp_level: "bronze"
+
+
 
 
 
