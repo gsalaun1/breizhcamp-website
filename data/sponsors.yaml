@@ -97,7 +97,6 @@ items:
     logo: "/img/sponsors/logo_agence_ministerielle_pour_l'intelligence_artificielle_de_defense.png"
     url: "https://www.linkedin.com/company/amiad-minarm/"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "Apside"
     logo: "/img/sponsors/logo_apside.png"
@@ -133,7 +132,6 @@ items:
     logo: "/img/sponsors/logo_onepoint.png"
     url: "https://www.groupeonepoint.com"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "Open"
     logo: "/img/sponsors/logo_open.png"
@@ -179,7 +177,6 @@ items:
     logo: "/img/sponsors/logo_luminess.png"
     url: "https://www.luminess.eu/"
     breizhcamp_level: "bronze"
-    hidden: true
 
   - name: "RunsOn"
     logo: "/img/sponsors/logo_runson.png"
@@ -190,6 +187,8 @@ items:
     logo: "/img/sponsors/logo_scalian.png"
     url: "https://www.scalian.com"
     breizhcamp_level: "bronze"
+
+
 
 
 
