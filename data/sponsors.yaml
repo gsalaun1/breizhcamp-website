@@ -46,7 +46,6 @@ items:
     logo: "/img/sponsors/logo_hellowork_group.png"
     url: "https://www.hellowork-group.com/"
     breizhcamp_level: "gold"
-    hidden: true
 
   - name: "Infotel"
     logo: "/img/sponsors/logo_infotel.png"
