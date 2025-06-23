@@ -17,6 +17,8 @@
                 {format: 'Eat', label: 'Repas', 'icon': 'fa-cutlery'},
             ];
 
+
+            // make sure to use accessible colors
             var categoryColors = this.categoryColors = {
                 'IoT Embarqué': '#186a5d',
                 'Méthodologie': '#9d6702',
