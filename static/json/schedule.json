@@ -1007,36 +1007,20 @@
         "level": "Standard"
     },
     {
-        "id": "878029",
-        "name": "Écrire du code avec un caillou : arcanes secrètes de la Nintendo 64 🍄",
+        "id": "878221",
+        "name": "Le monde merveilleux des claviers mécaniques",
         "event_start": "2025-06-26T10:30:00",
         "event_end": "2025-06-26T11:25:00",
         "event_type": "Autre...",
         "format": "Conférence",
-        "venue": "Amphi A",
-        "venue_id": "1",
-        "speakers": "Audren Burlot",
-        "video_url": null,
-        "files_url": null,
-        "slides_url": null,
-        "description": "Dans la vie, il y a les gens normaux, et puis il y a ceux pour qui l'existence se résume à une seule chose : terminer des jeux vidéo le plus rapidement possible. On appelle ces gens des *speedrunners*.\n\nDans cette conférence, je vous raconte l'histoire du speedrun le plus improbable de la Nintendo 64, ou comment l'effort collectif de quelques joueurs chevronnés, devenus hackers et développeurs malgré eux, a permis l'impossible.\nJe vous expliquerai comment on peut faire traverser l'espace et le temps à un plombier en salopette de papier grâce à des notions approximatives d'assembleur, de l'huile de coude, un caillou, des élastiques, une détermination sans faille, une bonne grosse dose de chance, et un petit coup de pouce d'un certain Hylien au chapeau vert.\n\nAlors si vous n'avez jamais eu vent de la technique interdite du Stop'n'Swop, et que passer 50 minutes à m'entendre déblatérer sur un jeu de 2001 ne vous fait pas peur, je vous invite à venir à ce talk, un hommage à la créativité, à la persévérance, et aux câbles péritels.",
-        "level": "Introduction"
-    },
-    {
-        "id": "878221",
-        "name": "Rendre son back générique grâce au pattern composite",
-        "event_start": "2025-06-26T10:30:00",
-        "event_end": "2025-06-26T11:25:00",
-        "event_type": "Développement",
-        "format": "Conférence",
         "venue": "Amphi B",
         "venue_id": "2",
-        "speakers": "Alexandre Baron",
+        "speakers": "Romain Blazeix, David Blanchet",
         "video_url": null,
         "files_url": null,
         "slides_url": null,
-        "description": "Au cours de mes années universitaires, assis sur ces mêmes bancs d'amphithéâtre, j'ai découvert les différents patrons de conception. Contrairement à mes premières impressions, leur maîtrise ne se résume pas à seulement utiliser le singleton. J'ai eu l'opportunité d'approfondir certains d'entre eux par la suite, notamment le pattern composite.\n\nLe patron de conception composite, grâce à sa structure arborescente, peut sembler complexe au premier abord. Cependant, il excelle dans la simplification de systèmes intrinsèquement complexes, en offrant une grande généricité. Il n'est donc pas surprenant de le retrouver dans de nombreux outils que nous utilisons quotidiennement :\n - dans le front-end, le HTML, qui forme un arbre représentant le rendu du navigateur\n - dans les bases de données relationnelles, où la clause WHERE du langage SQL constitue un arbre définissant les conditions que doivent remplir les enregistrements pour être sélectionnés\n\nCette conférence vous permettra de découvrir le patron composite dans le contexte du développement back-end en Java. Dans la période actuelle, où il est demandé non seulement de développer des applications, mais parfois des \"plateformes\", utiliser le pattern composite peut être un atout majeur pour rendre vos solutions génériques et évolutives. Vous comprendrez pourquoi et comment le mettre en place, ainsi que les bénéfices de généricité que vous pouvez en tirer. Elle ne se limitera pas uniquement au patron composite, mais abordera également quelques variantes (comme le patron de spécification) et des patrons complémentaires (comme le visiteur). Seulement quelques variantes seront couvertes, car de fil en aiguille, il est possible de conclure qu'un programme informatique, en tant qu'arbre d'instructions, utilise le patron composite 🤯.",
-        "level": "Avancé"
+        "description": "Et si on regardait de plus près cet omniprésent bidule de vos journées sur l'ordinateur : votre clavier. Vous restez des heures devant sans vraiment y prêter attention, alors qu'il est un élément central de votre confort et de votre efficacité.\n\nSuivez-nous et découvrez les \"claviers mécaniques\", qui, ayant le bon goût d'être hackables, font le bonheur de leurs propriétaires, qu'ils soient simples utilisateurs, honnêtes geeks, gamers invétérés, ou makers enthousiastes.\n\nSuivez-nous, et découvrez toutes leurs possibilités, laissez-vous guider dans le monde merveilleux des claviers mécaniques. Qui sait ? Vous pourriez y découvrir *LE* clavier qui changera à jamais votre vie/quotidien !",
+        "level": "Introduction"
     },
     {
         "id": "882642",
@@ -1536,19 +1520,19 @@
     },
     {
         "id": "866125",
-        "name": "Introduction pratique à OpenTelemetry pour les développeurs",
+        "name": "Rendre son back générique grâce au pattern composite",
         "event_start": "2025-06-27T10:30:00",
         "event_end": "2025-06-27T11:25:00",
-        "event_type": "DevOps",
+        "event_type": "Développement",
         "format": "Conférence",
         "venue": "Amphi C",
         "venue_id": "3",
-        "speakers": "Nicolas Fränkel",
+        "speakers": "Alexandre Baron",
         "video_url": null,
         "files_url": null,
         "slides_url": null,
-        "description": "Il est essentiel de suivre le parcours d'une requête à travers les différents composants d'un système distribué. Avec l'essor des microservices, cette fonctionnalité a atteint un niveau de criticité comme jamais auparant. Certains outils propriétaires de suivi vous sont peut-être connus : Jaeger et Zipkin viennent naturellement à l'esprit.\n\nL'observabilité repose sur trois piliers : la journalisation, les métriques et le traçage. OpenTelemetry est un effort conjoint visant à mettre en place un standard ouvert pour ces trois piliers. Jaeger et Zipkin se sont joints à cet effort et sont maintenant compatibles avec OpenTelemetry.\n\nDans cet exposé, je décrirai plus en détail ce qui précède et je présenterai un cas d'utilisation (simple) pour démontrer comment vous pourriez bénéficier des traces OpenTelemetry dans votre architecture distribuée.",
-        "level": "Standard"
+        "description": "Au cours de mes années universitaires, assis sur ces mêmes bancs d'amphithéâtre, j'ai découvert les différents patrons de conception. Contrairement à mes premières impressions, leur maîtrise ne se résume pas à seulement utiliser le singleton. J'ai eu l'opportunité d'approfondir certains d'entre eux par la suite, notamment le pattern composite.\n\nLe patron de conception composite, grâce à sa structure arborescente, peut sembler complexe au premier abord. Cependant, il excelle dans la simplification de systèmes intrinsèquement complexes, en offrant une grande généricité. Il n'est donc pas surprenant de le retrouver dans de nombreux outils que nous utilisons quotidiennement :\n - dans le front-end, le HTML, qui forme un arbre représentant le rendu du navigateur\n - dans les bases de données relationnelles, où la clause WHERE du langage SQL constitue un arbre définissant les conditions que doivent remplir les enregistrements pour être sélectionnés\n\nCette conférence vous permettra de découvrir le patron composite dans le contexte du développement back-end en Java. Dans la période actuelle, où il est demandé non seulement de développer des applications, mais parfois des \"plateformes\", utiliser le pattern composite peut être un atout majeur pour rendre vos solutions génériques et évolutives. Vous comprendrez pourquoi et comment le mettre en place, ainsi que les bénéfices de généricité que vous pouvez en tirer. Elle ne se limitera pas uniquement au patron composite, mais abordera également quelques variantes (comme le patron de spécification) et des patrons complémentaires (comme le visiteur). Seulement quelques variantes seront couvertes, car de fil en aiguille, il est possible de conclure qu'un programme informatique, en tant qu'arbre d'instructions, utilise le patron composite 🤯.",
+        "level": "Avancé"
     },
     {
         "id": "857242",
