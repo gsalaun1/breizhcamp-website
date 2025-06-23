@@ -895,6 +895,22 @@
         "level": "Standard"
     },
     {
+      "id": "752221",
+      "name": "Indiana Jones et la Malédiction des Commons",
+      "event_start": "2025-06-26T10:30:00",
+      "event_end": "2025-06-26T11:25:00",
+      "event_type": "Architecture",
+      "format": "Conférence",
+      "venue": "Amphi A",
+      "venue_id": "1",
+      "speakers": "Thomas Piscitelli",
+      "video_url": null,
+      "files_url": null,
+      "slides_url": null,
+      "description": "La mise en place de commons au sein d'un SI est un réflexe assez commun, d'autant plus avec l'essor des Microservices. Ces librairies \"maison\" sont en effet bien pratiques pour mutualiser des comportements métiers ou techniques.\nL'objectif de cette conférence est de fournir une critique constructive sur le recours aux commons, de présenter leurs coûts plus ou moins cachés et de donner des conseils pour réduire au maximum ces coûts.\nEt pourquoi pas même de proposer une solution alternative pour adresser les problématiques auxquelles les commons tentent de répondre...\nCela ne semble peut-être pas évident au premier abord mais les commons sont un parfait support pour parler Software Craftmanship, architecture et même un peu IA !\nLa réflexion autour de cette problématique s'appuiera sur un exemple en SpringBoot/Java mais peut se généraliser pour n'importe quel framework ayant recours à des mécanismes d'injection de dépendances.",
+      "level": "Standard"
+    },
+    {
         "id": "883713",
         "name": "🧑‍🎤🎸 La preuve de programme vous fera apprécier les tests",
         "event_start": "2025-06-26T16:00:00",
@@ -1623,7 +1639,7 @@
         "format": "Conférence",
         "venue": "Amphi B",
         "venue_id": "2",
-        "speakers": "Nicolas Bouron",
+        "speakers": "Nicolas Bouron, Antoine Oili",
         "video_url": null,
         "files_url": null,
         "slides_url": null,
