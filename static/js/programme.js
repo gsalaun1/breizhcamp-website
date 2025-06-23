@@ -19,19 +19,19 @@
 
             var categoryColors = this.categoryColors = {
                 'IoT Embarqué': '#186a5d',
-                'Méthodologie': '#C9880F',
+                'Méthodologie': '#9d6702',
                 'Data': '#BB283C',
                 'Architecture': '#6B4162',
                 'Développement': '#3366ff',
-                'Web': '#2e9eb7',
-                'Mobile': '#ff99ff',
-                'Keynote': '#F55E52',
-                'IA': '#D5B900',
-                'Écoconception': '#8FC93A',
+                'Web': '#08768f',
+                'Mobile': '#770777',
+                'Keynote': '#73063e',
+                'IA': '#ae1889',
+                'Écoconception': '#325106',
                 'DevOps': '#774E24',
                 'Sécurité': '#000000',
-                'Eat': '#00c96b',
-                'Autre...': '#AAAAAA'
+                'Eat': '#101d65',
+                'Autre...': '#666'
             };
 
             var rooms = this.rooms = {
